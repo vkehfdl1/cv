@@ -18,7 +18,7 @@ Hi Hi
 
 Standing on the shoulders of giants
 
-### Specialized in
+### Specialized in jax
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
