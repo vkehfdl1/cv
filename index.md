@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dongkyu Kim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dongkyu Kim
+Undergraduate @ Kyunghee University
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
