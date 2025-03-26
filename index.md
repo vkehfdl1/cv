@@ -12,7 +12,7 @@ Undergraduate @ Kyunghee University
 
 ## Personal Data
 
-Hi Hi
+Hi Hi Heloooo
 
 ## Currently
 
