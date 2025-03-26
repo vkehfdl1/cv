@@ -10,12 +10,15 @@ Undergraduate @ Kyunghee University
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+## Personal Data
+
+Hi Hi Heloooo
 
 ## Currently
 
 Standing on the shoulders of giants
 
-### Specialized in
+### Specialized in jax
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
