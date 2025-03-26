@@ -6,81 +6,91 @@ title: Dongkyu Kim's CV
 Undergraduate @ Kyunghee University
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vkehfdl1@gmail.com">vkehfdl1@gmail.com</a>
+| <a href="https://github.com/vkehfdl1">Github</a>
+| <a href="https://www.linkedin.com/in/jeffrey-dongkyu/">LinkedIn</a>
+| <a href="https://obsidian-blog-gilt.vercel.app/">Blog</a>
 </div>
 
 ## Personal Data
-
-Hi Hi Heloooo
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in jax
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+- Birth: 11, Jul 2001, in the Republic of Korea
+- Nationality: Korean
+- Family Status: Single
+- Skills: Python, Docker, Java, Kotlin
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+RAG Optimization, Information Retrieval, Language Model Evaluation, Multi-modal
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Mar 2020 - now`
+__-	Bachelor of Industrial Engineering & Software Convergence Data Science Track__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Kyunghee University, Yongin, Korea 
 
-- Sizar
+Primary Major: Industrial Engineering, Secondary Major: Software Convergence Data Science Track
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+GPA (Major): /4.5 | GPA (Total): /4.5
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2024`
+Open Source Developer Competition, *1st Prize*, Ministry of Science and ICT, Korea
 
-Associate, *French Academy of Science*, Paris, France
+`2023`
+Camta
 
+`2022`
+KVP
+
+Hackerthon
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Arxiv
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+`2024`
+*Kim. D.*, Kim. B., Han. D., Eibich M. (2024). AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2023`
+METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPACE [https://doi.org/10.8080/1020230015368](Link)
+
+## Instructor Experience	
+
+`Dec 2024 - Feb 2025`
+*Evaluation & Optimization of RAG systems* at FastCampus (online).  
+
+- Evaluation metrics and techniques to measure RAG system performances
+- Evaluation data generation strategies using LLM
+- RAG optimization methods
+
+`Apr 2024 - now`
+*Invited Talk*
+
+- Uber
+- AWS Korea
+- GS Group
+- Pycon KR
+- Google Developer Groups
+- Youtube Teddy Note
+- FastCampus
+- AUSG
+- VESSL AI
+- Gen AI Tools Infra & Open Source Demo Days
+
+## Projects
+
+`Jan 2025 - now`
+*Research & Founder* at Rice-Bobb Open Source Foundation
+- 
+- 
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
@@ -89,6 +99,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar 2025 -->
 
 
