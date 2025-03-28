@@ -32,7 +32,7 @@ Kyunghee University, Yongin, Korea
 
 Primary Major: Industrial Engineering, Secondary Major: Software Convergence Data Science Track
 
-GPA (Major): /4.5 | GPA (Total): /4.5
+GPA: 4.03/4.5
 
 ## Awards
 
@@ -40,12 +40,13 @@ GPA (Major): /4.5 | GPA (Total): /4.5
 Open Source Developer Competition, *1st Prize*, Ministry of Science and ICT, Korea
 
 `2023`
-Camta
+Kyung Hee University Campus Town Resident Startup Campus 5th Cohort Recruitment *2nd Award*
+
+KHU Valley Program Scale-up Track *1st Prize*
 
 `2022`
-KVP
 
-Hackerthon
+2nd KAIST X ACCEL Healthcare AI Hackathon *1st Prize*
 
 
 ## Publications
@@ -83,18 +84,62 @@ METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPAC
 - VESSL AI
 - Gen AI Tools Infra & Open Source Demo Days
 
-## Projects
+## Career Path
 
 `Jan 2025 - now`
 *Research & Founder* at Rice-Bobb Open Source Foundation
-- 
-- 
 
+- __Songsuro__ : Singer voice lyrics swapping model via Latent Diffusion Models  
+- __<a href="https://github.com/RiceBobb/ClueHunter-Perplexity">ClueHunter</a>__ : On-device evidence finder from AI research response 
 
+`Sep 2024 - Dec 2024`
+*CEO* at AutoRAG Inc.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- __<a href="https://github.com/Marker-Inc-Korea/AutoRAG">AutoRAG</a>__ : Automated RAG optimization framework
+- Earn 3,700+ Github Stars & Github Weekly Trending Repository
+- Build back-end & front-end system for automating RAG optimization
 
+`Jun 2023 - Aug 2024`
+*Researcher* at Markr AI
+
+- __<a href="https://github.com/Marker-Inc-Korea/AutoRAG">AutoRAG</a>__ as Leader : Automated RAG optimization framework
+- Lead PoC project about RAG evaluation & optimization project with 'H' insurance company and 'S' AI startup
+- High-quality Evaluation dataset generation using LLM
+- Adapt advanced hybrid retrieval and passage reranker methods
+- __<a href="https://github.com/Marker-Inc-Korea/AutoRAG-example-korean-embedding-benchmark">Korean Embedding Benchmark</a>__ : Korean embedding model benchmark using AutoRAG 
+- __<a href="https://github.com/Marker-Inc-Korea/RAGchain">RAGchain</a>__ as Leader : An enhanced extension to Langchain for advanced RAG system
+- __<a href="https://github.com/NomaDamas/KICE_slayer_AI_Korean">KICE Slayer</a>__ as Leader : LLM evaluation project using Korean SAT problems.
+- Seeking the best prompt engineering method to reason and solve Korean SAT problems
+- Research backed by NIA(National Information Society Agency) in Korea. 
+- __<a href="https://huggingface.co/datasets/NomaDamas/Ko-StrategyQA">Ko-StrategyQA</a> : The first multi-hop QA dataset in Korean
+
+`Sep 2022 - Mar 2023`
+*CEO* at EDAI Inc.
+
+- __In-game PPL Solution__ : Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
+
+`Mar 2022 - Aug 2022`
+*Leader & Founder* at EDA
+
+- __<a href="https://github.com/PCEO-AI-CLUB/IdolGAN">IdolGAN</a>__ as Leader : Super resolution model for restoring K-pop girl group idols facial images using GAN models
+- __<a href="https://github.com/PCEO-AI-CLUB/KID-F">KID-F</a>__ : High qualtiy face image dataset of K-pop female idols.
+
+`Jul 2021 - Jul 2022`
+*AI Engineer & Co-Founder* at Whew-AI Inc.
+
+- __Kikic__ as Android Developer : Developed random chat app using video AI that analyze human emotions. 
+- On-device (mobile) ML
+- __<a href="https://github.com/Whew-AI-Inc/Doridori-Counter">Doridori Counter</a>__ : Developed automatic human head shacking detector using facial landmarks and peak detection
+- __kongDak AI__ : Developed face chat which measures attractiveness score for couples
+- __RubyRuby__ : Developed baby health measurement app using rPPG & facial landmark detection
+- __rPPG__ : Improve rPPG (remote photoplethysmography) accruacy (SOTA at UBFC-rPPG dataset)
+- Digital Signal Processing, Video Vision
+
+`Mar 2021 - Jun 2021`
+*Research Intern* at Markr AI
+
+- __Auto-orion__ : Developer AutoML for <a href="https://github.com/sintel-dev/Orion">TadGAN</a>
+- Unsupervised time-series Anomaly Detection in industry use
 
 
 <!-- ### Footer
