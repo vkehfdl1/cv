@@ -51,15 +51,10 @@ KHU Valley Program Scale-up Track *1st Prize*
 
 ## Publications
 
-### Arxiv
+### Technical reports
 
 `2024`
 *Kim. D.*, Kim. B., Han. D., Eibich M. (2024). AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline [Link](https://arxiv.org/pdf/2410.20878)
-
-### Patents
-
-`2023`
-METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPACE [Link](https://doi.org/10.8080/1020230015368)
 
 ## Instructor Experience	
 
@@ -92,17 +87,11 @@ METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPAC
 - __Songsuro__ : Singer voice lyrics swapping model via Latent Diffusion Models  
 - __<a href="https://github.com/RiceBobb/ClueHunter-Perplexity">ClueHunter</a>__ : On-device evidence finder from AI research response 
 
-`Sep 2024 - Dec 2024`
-*CEO* at AutoRAG Inc.
-
-- __<a href="https://github.com/Marker-Inc-Korea/AutoRAG">AutoRAG</a>__ : Automated RAG optimization framework
-- Earn 3,700+ Github Stars & Github Weekly Trending Repository
-- Build back-end & front-end system for automating RAG optimization
-
-`Jun 2023 - Aug 2024`
+`Jun 2023 - Dec 2024`
 *Researcher* at Markr AI
 
 - __<a href="https://github.com/Marker-Inc-Korea/AutoRAG">AutoRAG</a>__ as Leader : Automated RAG optimization framework
+- Earn 3,700+ Github Stars & Github Weekly Trending Repository
 - Lead PoC project about RAG evaluation & optimization project with 'H' insurance company and 'S' AI startup
 - High-quality Evaluation dataset generation using LLM
 - Adapt advanced hybrid retrieval and passage reranker methods
@@ -140,9 +129,13 @@ METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPAC
 - __Auto-orion__ : Developer AutoML for <a href="https://github.com/sintel-dev/Orion">TadGAN</a>
 - Unsupervised time-series Anomaly Detection in industry use
 
+### Patents
+
+`2023`
+METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPACE [Link](https://doi.org/10.8080/1020230015368)
+
 
 <!-- ### Footer
 
 Last updated: Mar 2025 -->
-
 
