@@ -40,7 +40,7 @@ GPA: 4.03/4.5
 Open Source Developer Competition, *1st Prize*, Ministry of Science and ICT, Korea
 
 `2023`
-Kyung Hee University Campus Town Resident Startup Campus 5th Cohort Recruitment *2nd Award*
+Kyung Hee University Campus Town Resident Startup Campus 5th Cohort Recruitment *2nd Prize*
 
 KHU Valley Program Scale-up Track *1st Prize*
 
@@ -54,12 +54,12 @@ KHU Valley Program Scale-up Track *1st Prize*
 ### Arxiv
 
 `2024`
-*Kim. D.*, Kim. B., Han. D., Eibich M. (2024). AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline
+*Kim. D.*, Kim. B., Han. D., Eibich M. (2024). AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline [Link](https://arxiv.org/pdf/2410.20878)
 
 ### Patents
 
 `2023`
-METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPACE [https://doi.org/10.8080/1020230015368](Link)
+METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPACE [Link](https://doi.org/10.8080/1020230015368)
 
 ## Instructor Experience	
 
@@ -111,7 +111,7 @@ METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPAC
 - __<a href="https://github.com/NomaDamas/KICE_slayer_AI_Korean">KICE Slayer</a>__ as Leader : LLM evaluation project using Korean SAT problems.
 - Seeking the best prompt engineering method to reason and solve Korean SAT problems
 - Research backed by NIA(National Information Society Agency) in Korea. 
-- __<a href="https://huggingface.co/datasets/NomaDamas/Ko-StrategyQA">Ko-StrategyQA</a> : The first multi-hop QA dataset in Korean
+- __<a href="https://huggingface.co/datasets/NomaDamas/Ko-StrategyQA">Ko-StrategyQA</a>__ : The first multi-hop QA dataset in Korean
 
 `Sep 2022 - Mar 2023`
 *CEO* at EDAI Inc.
@@ -127,8 +127,7 @@ METHOD AND APPARATUS FOR CALCULATING THE OBJECT EXPOSURE AREA IN 3D VIRTUAL SPAC
 `Jul 2021 - Jul 2022`
 *AI Engineer & Co-Founder* at Whew-AI Inc.
 
-- __Kikic__ as Android Developer : Developed random chat app using video AI that analyze human emotions. 
-- On-device (mobile) ML
+- __Kikic__ as Android Developer : Developed random chat app using video AI that analyze human emotions.
 - __<a href="https://github.com/Whew-AI-Inc/Doridori-Counter">Doridori Counter</a>__ : Developed automatic human head shacking detector using facial landmarks and peak detection
 - __kongDak AI__ : Developed face chat which measures attractiveness score for couples
 - __RubyRuby__ : Developed baby health measurement app using rPPG & facial landmark detection
