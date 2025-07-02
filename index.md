@@ -91,7 +91,7 @@ KHU Valley Program Scale-up Track *1st Prize*
 *Researcher* at Markr AI
 
 - __<a href="https://github.com/Marker-Inc-Korea/AutoRAG">AutoRAG</a>__ as Leader : Automated RAG optimization framework
-- Earn 3,700+ Github Stars & Github Weekly Trending Repository
+- Earn 4,000+ Github Stars & Github Weekly Trending Repository
 - Lead PoC project about RAG evaluation & optimization project with 'H' insurance company and 'S' AI startup
 - High-quality Evaluation dataset generation using LLM
 - Adapt advanced hybrid retrieval and passage reranker methods
