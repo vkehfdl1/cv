@@ -81,6 +81,9 @@ KHU Valley Program Scale-up Track *1st Prize*
 
 ## Career Path
 
+`Jun 2025 - now`
+*Research Intern* at KAIST AI DAVIAN Lab
+
 `Jan 2025 - now`
 *Research & Founder* at Rice-Bobb Open Source Foundation
 
